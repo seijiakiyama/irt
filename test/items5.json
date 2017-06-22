@@ -1,0 +1,27 @@
+{
+  "items": [
+    {"difficulty" : -0.97436, "correct": 0, "casualChance": 0.2},
+    {"difficulty" : -0.79348, "correct": 0, "casualChance": 0.2},
+    {"difficulty" : -0.56911, "correct": 0, "casualChance": 0.2},
+    {"difficulty" : -0.33307, "correct": 0, "casualChance": 0.2},
+    {"difficulty" : -0.28249, "correct": 0, "casualChance": 0.2},
+    {"difficulty" : -0.25729, "correct": 0, "casualChance": 0.2},
+    {"difficulty" : -0.20704, "correct": 0, "casualChance": 0.2},
+    {"difficulty" : -0.18241, "correct": 0, "casualChance": 0.2},
+    {"difficulty" : -0.10844, "correct": 0, "casualChance": 0.2},
+    {"difficulty" : -0.05959, "correct": 0, "casualChance": 0.2},
+    {"difficulty" : 0.02464, "correct": 1, "casualChance": 0.2},
+    {"difficulty" : 0.10454, "correct": 1, "casualChance": 0.2},
+    {"difficulty" : 0.12849, "correct": 1, "casualChance": 0.2},
+    {"difficulty" : 0.32897, "correct": 1, "casualChance": 0.2},
+    {"difficulty" : 0.41083, "correct": 1, "casualChance": 0.2},
+    {"difficulty" : 0.59373, "correct": 1, "casualChance": 0.2},
+    {"difficulty" : 0.63494, "correct": 1, "casualChance": 0.2},
+    {"difficulty" : 0.72774, "correct": 1, "casualChance": 0.2},
+    {"difficulty" : 0.91585, "correct": 1, "casualChance": 0.2},
+    {"difficulty" : 0.98295, "correct": 1, "casualChance": 0.2}
+  ],
+  "student": {
+    "proficiency": 0
+  }
+}
